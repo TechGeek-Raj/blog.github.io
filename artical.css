@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(246, 244, 244);
+    
+}
+.container-1{
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    padding: 50px;
+    box-shadow: 0,0,23px;
+}
+.header-1{
+    width: 100%;
+    font-size: 55px;
+    text-align: center;
+}
+#food{
+    width: 100%;
+}
+.q1{
+    width: 100%;
+}
+h2{
+    margin-top: 20px;
+}
+li{
+    font-size: 22px;
+    margin: 10px 0;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+h1{
+    width: 100%s;
+    font-size: 30px;
+    color: #2f4468;
+    margin-top: 50px;
+    opacity: .7;
+    position: relative;
+    text-decoration: underline;
+    font-weight: 600;
+    margin-left: 60px;
+}
+
+p{
+    opacity: .7;
+    font-size: 22px;
+    margin-top: 20px;
+    word-spacing: 1.5px;
+    line-height: 1.6em;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+img{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin: 30px auto;
+    object-fit: cover;
+}
+h6{
+    font-size: 16px;
+    margin:20px 0 ;
+}
